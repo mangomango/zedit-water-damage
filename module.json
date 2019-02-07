@@ -1,0 +1,12 @@
+{
+  "id": "waterDamage",
+  "name": "Water fix for iNeed/KIC etc",
+  "author": "Bystander",
+  "version": "1.0.0",
+  "released": "01/21/2019",
+  "updated": "01/21/2019",
+  "description": "Adds 'Causes Damage' flag to all water types in the game so water gets recognized by various needs mods",
+  "requires": ["unifiedPatchingFramework"],
+  "moduleLoader": "UPF",
+  "canHotLoad": true
+}
